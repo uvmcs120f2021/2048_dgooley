@@ -1,3 +1,7 @@
+/**
+ * Main cpp file for 2048 game
+ */
+
 #include "spie.cpp"
 using namespace std;
 
