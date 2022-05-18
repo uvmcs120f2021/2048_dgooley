@@ -2,7 +2,7 @@
 
 For my final project I created 2048
 
-My video here: https://youtu.be/lqNTbavgZLk
+Video Demo Here: https://youtu.be/lqNTbavgZLk
 
 ### Collaboration and reused work:
 I work entirely on my own for this project ith the exception of peers resting my game by playing it. I used some code copied and then altered from the original "graphics starter" assignement but otherise used no other outside code. 
